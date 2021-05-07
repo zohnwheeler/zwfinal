@@ -4,7 +4,7 @@
 ## Projects
 
 
-Click here to [visit the projects page](page2.md)
+Click here to [visit the projects page](https://github.com/zohnwheeler/zwfinal/tree/projects)
 
 
 
